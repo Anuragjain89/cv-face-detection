@@ -162,10 +162,7 @@ The algorithm uses the Viola Jones method :
 - If it passes all stages in the cascade file, it is marked with a red rectangle. 
 - In the post-processing stage all the potential faces are checked for overlaps.  
 
-https://vimeo.com/12774628
-
-<iframe src="https://player.vimeo.com/video/12774628" width="640" height="610" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/12774628">OpenCV Face Detection: Visualized</a> from <a href="https://vimeo.com/adamhrv">Adam Harvey</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/12774628">OpenCV Face Detection: Visualized</a> from <a href="https://vimeo.com/adamhrv">Adam Harvey</a>.</p>
 
 ---
 
